@@ -10,7 +10,8 @@ Afterwards:
 
 Sample Response:
 
-```jhofmann@naya:~/git/game_query$ ./game 160.20.145.233 27015
+```
+jhofmann@naya:~/git/game_query$ ./game 160.20.145.233 27015
 ����ILinuxGSM
 ```
 
